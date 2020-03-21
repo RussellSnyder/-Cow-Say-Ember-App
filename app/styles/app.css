@@ -1,0 +1,8 @@
+.ascii-animal__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ascii-animal__container pre {
+  /* text-align: left; */
+}
